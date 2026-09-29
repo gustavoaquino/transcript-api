@@ -1,1 +1,1 @@
-Simple API to retrieve YouTube transcripts using a Webshare proxy.
+Simple API to retrieve YouTube transcripts using Webshare proxy.
